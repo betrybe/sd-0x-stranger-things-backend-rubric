@@ -26,7 +26,7 @@ jobs:
         uses: betrybe/jest-evaluator-action@v7
         with:
           repository-test-name: 'betrybe/sd-0x-stranger-things-backend-tests'
-          repository-test-branch: 'master'
+          repository-test-branch: 'ajustes_testes'
           npm-start: true
         env:
           GITHUB_USER_TEST: ${{ github.actor }} 
