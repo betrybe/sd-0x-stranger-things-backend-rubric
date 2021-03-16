@@ -13,11 +13,11 @@
       "bonus": false
     },
     {
-      "description": "4 - Verifica se o modulo pm2 foi instalado no projeto",
+      "description": "4 - Verifica se o módulo pm2 foi instalado no projeto",
       "bonus": false
     },
     {
-      "description": "5 - Verifica se a configuração do arquivo Procfile.",
+      "description": "5 - Verifica a configuração do arquivo Procfile",
       "bonus": false
     },
     {
